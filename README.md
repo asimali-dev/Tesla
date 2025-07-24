@@ -44,3 +44,4 @@ tesla-clone/
 3. Explore the Tesla-inspired layout!
 
 ## 🕹️ Demo
+https://asimali-dev.github.io/Tesla/
